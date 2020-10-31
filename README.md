@@ -8,7 +8,7 @@
 <img src="icons/typescript.svg" alt="typescript" width="30" height="30"/> <img src="icons/angular.svg" alt="angular" width="30" height="30"/> 
 
 ### :skull: Previously worked with:
-<img src="icons/android.svg" alt="android" width="30" height="30"/> <img src="icons/php.svg" alt="php" width="30" height="30"/> <img src="icons/javascript.svg" alt="javascript" width="30" height="30"/> <img src="icons/html5.svg" alt="html5" width="30" height="30"/> <img src="icons/css3.svg" alt="css3" width="30" height="30"/> <img src="icons/java.svg" alt="java" width="30" height="30"/> <img src="icons/cpp.svg" alt="cpp" width="30" height="30"/> 
+<img src="icons/android.svg" alt="android" width="30" height="30"/> <img src="icons/php.svg" alt="php" width="30" height="30"/> <img src="icons/javascript.svg" alt="javascript" width="30" height="30"/> <img src="icons/html5.svg" alt="html5" width="30" height="30"/> <img src="icons/css3.svg" alt="css3" width="30" height="30"/> <img src="icons/java.svg" alt="java" width="30" height="30"/> <img src="icons/cpp.svg" alt="cpp" width="30" height="30"/> <br />
 <img src="icons/jquery.svg" alt="jquery" width="30" height="30"/> <img src="icons/bootstrap-4.svg" alt="bootstrap-4" width="30" height="30"/> <img src="icons/cucumber.svg" alt="cucumber" width="30" height="30"/> 
 <img src="icons/mysql.svg" alt="mysql" width="30" height="30"/> <img src="icons/mongodb.svg" alt="mongo" width="30" height="30"/> <img src="icons/cassandra.svg" alt="cassandra" width="30" height="30"/> 
 <img src="icons/kubernets.svg" alt="kubernetes" width="30" height="30"/> 
