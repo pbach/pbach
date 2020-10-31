@@ -5,7 +5,7 @@
 <!-- Add my technologies -->
 
 ### 🌱 I’m currently learning:
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
 
 ### :skull: Previously worked with:
 <!-- Previous technologies -->
