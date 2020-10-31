@@ -5,9 +5,12 @@
 <!-- Add my technologies -->
 
 ### 🌱 I’m currently learning:
-<!-- What I'm learning now -->
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
 
 ### :skull: Previously worked with:
+<!-- Previous technologies -->
+
+### 🤔 Next faze of learn technologies:
 
 <!--
 **pbach/pbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
