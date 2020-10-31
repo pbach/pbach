@@ -16,7 +16,7 @@
 ### Dev Tools:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="apple" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-original.svg" alt="firefox" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/safari/safari-original.svg" alt="safari" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30"/> 
 
-### Free time:
+### <img src="https://www.flaticon.com/free-icon/relax_3063782?term=relax&page=1&position=35" alt="arduino" width="30" height="30"/> Free time:
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/>
 
 <!--
