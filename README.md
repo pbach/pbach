@@ -1,4 +1,13 @@
 ### Hi there 👋
+## I'm Piotr Bach, a Software Engineer but from time to time also an Automated Tester.
+
+### 🔭 I’m currently working on:
+<!-- Add my technologies -->
+
+### 🌱 I’m currently learning:
+<!-- What I'm learning now -->
+
+### :skull: Previously worked with:
 
 <!--
 **pbach/pbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
