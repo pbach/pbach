@@ -12,7 +12,7 @@
 <img src="icons/jquery.svg" alt="jquery" width="30" height="30"/> <img src="icons/bootstrap-4.svg" alt="bootstrap-4" width="30" height="30"/> <img src="icons/cucumber.svg" alt="cucumber" width="30" height="30"/> <br />
 <img src="icons/mysql.svg" alt="mysql" width="30" height="30"/> <img src="icons/mongodb.svg" alt="mongo" width="30" height="30"/> <img src="icons/cassandra.svg" alt="cassandra" width="30" height="30"/> <br />
 <img src="icons/kubernets.svg" alt="kubernetes" width="30" height="30"/> <br />
-<img src="icons/slack.svg" alt="slack" width="30" height="30"/> 
+<img src="icons/slack.svg" alt="slack" width="30" height="30"/> <img src="icons/confluence.svg" alt="confluence" width="30" height="30"/> 
 
 ### 🤔 Next phase to learn technologies:
 <img src="icons/golang.svg" alt="golang" width="30" height="30"/> <img src="icons/python.svg" alt="python" width="30" height="30"/> <br />
