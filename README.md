@@ -8,9 +8,15 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
 
 ### :skull: Previously worked with:
-<!-- Previous technologies -->
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
 
-### 🤔 Next faze of learn technologies:
+### 🤔 Next phase to learn technologies:
+
+### Dev Tools:
+
+### Free time:
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/>
 
 <!--
 **pbach/pbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
