@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Piotr Bach, a Software Engineer but from time to time also an Automated Tester.
+## I'm Piotr Bach, a Software Engineer but from time to time also a Test Automation Engineer.
 
 ### 🔭 I’m currently working on:
 <img src="icons/c-sharp.svg" alt="csharp" width="30" height="30"/> <img src="icons/dotnet-core.svg" alt="dotnet-core" width="30" height="30"/> <img src="icons/rabbitmq.svg" alt="rabbitmq" width="30" height="30"/> <img src="icons/signalr.png" alt="signalr" width="30" height="30"/> <img src="icons/git.svg" alt="git" width="30" height="30"/> <img src="icons/gitea.svg" alt="gitea" width="30" height="30"/> <img src="icons/jenkins.svg" alt="jenkins" width="30" height="30"/> <img src="icons/docker.svg" alt="docker" width="30" height="30"/> <img src="icons/linux.svg" alt="linux" width="30" height="30"/> <img src="icons/jira.svg" alt="jira" width="30" height="30"/>
