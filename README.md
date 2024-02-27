@@ -2,7 +2,7 @@
 ## I'm Piotr Bach, a Software Engineer but from time to time also a Test Automation Engineer.
 
 ### 🔭 I’m currently working on:
-<img src="icons/c-sharp.svg" alt="csharp" width="30" height="30"/> <img src="icons/dotnet-core.svg" alt="dotnet-core" width="30" height="30"/> <img src="icons/rabbitmq.svg" alt="rabbitmq" width="30" height="30"/> <img src="icons/signalr.png" alt="signalr" width="30" height="30"/> <img src="icons/git.svg" alt="git" width="30" height="30"/> <img src="icons/gitea.svg" alt="gitea" width="30" height="30"/> <img src="icons/jenkins.svg" alt="jenkins" width="30" height="30"/> <img src="icons/docker.svg" alt="docker" width="30" height="30"/> <img src="icons/linux.svg" alt="linux" width="30" height="30"/> <img src="icons/jira.svg" alt="jira" width="30" height="30"/>
+<img src="icons/c-sharp.svg" alt="csharp" width="30" height="30"/> <img src="icons/dotnet-core.svg" alt="dotnet-core" width="30" height="30"/> <img src="icons/golang.svg" alt="golang" width="30" height="30"/> <img src="icons/rabbitmq.svg" alt="rabbitmq" width="30" height="30"/> <img src="icons/signalr.png" alt="signalr" width="30" height="30"/> <img src="icons/git.svg" alt="git" width="30" height="30"/> <img src="icons/gitea.svg" alt="gitea" width="30" height="30"/> <img src="icons/jenkins.svg" alt="jenkins" width="30" height="30"/> <img src="icons/docker.svg" alt="docker" width="30" height="30"/> <img src="icons/linux.svg" alt="linux" width="30" height="30"/> <img src="icons/jira.svg" alt="jira" width="30" height="30"/>
 
 ### 🌱 I’m currently learning:
 <img src="icons/typescript.svg" alt="typescript" width="30" height="30"/> <img src="icons/angular.svg" alt="angular" width="30" height="30"/> 
@@ -15,7 +15,7 @@
 <img src="icons/slack.svg" alt="slack" width="30" height="30"/> <img src="icons/confluence.svg" alt="confluence" width="30" height="30"/> 
 
 ### 🤔 Next phase to learn technologies:
-<img src="icons/golang.svg" alt="golang" width="30" height="30"/> <img src="icons/python.svg" alt="python" width="30" height="30"/> <br />
+<img src="icons/python.svg" alt="python" width="30" height="30"/> <br />
 <img src="icons/flutter.svg" alt="flutter" width="30" height="30"/> <img src="icons/nodejs.svg" alt="nodejs" width="30" height="30"/> <img src="icons/webpack.svg" alt="webpack" width="30" height="30"/> <img src="icons/sass.svg" alt="sass" width="30" height="30"/> <br />
 <img src="icons/google-cloud.svg" alt="google-cloud" width="30" height="30"/> <img src="icons/aws.svg" alt="aws" width="30" height="30"/> 
 
