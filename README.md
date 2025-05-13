@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Piotr Bach, a Senior Software Engineer but from time to time also a Test Automation Engineer.
+## I'm Piotr Bach, a Senior Software Engineer, dad and husband - but from time to time also a Test Automation Engineer.
 
 <!--
 **pbach/pbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
